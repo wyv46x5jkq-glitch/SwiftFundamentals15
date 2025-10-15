@@ -1,9 +1,9 @@
-# Name: 
+# Name: Tiphani Roberts
 
 ## About Me
-* School Email: 
-* Dream Career: 
-* Hidden Talent: 
+* School Email: Durham Tech
+* Dream Career: Zoologoist
+* Hidden Talent: i can lick my nose 
 
 ## Course Information
 * Semester: 
